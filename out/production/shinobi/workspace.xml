@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dafd228f-8f7a-4a41-9158-14be5db7d978" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1jKytOVew1NBuyHshVLBJjoaqBb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="14" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="shinobi.Main" />
+      <module name="Shinobi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="shinobi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-15" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="shinobi.MainTest" />
+      <module name="Shinobi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="shinobi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainTest" />
+      <item itemvalue="Application.Main" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dafd228f-8f7a-4a41-9158-14be5db7d978" name="Default Changelist" comment="" />
+      <created>1603567297661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603567297661</updated>
+      <workItem from="1638060593664" duration="1076000" />
+      <workItem from="1638147499446" duration="2987000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="384" y="152" key="#Project_Structure" timestamp="1603638127805">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="384" y="152" key="#Project_Structure/0.23.1792.1097@0.23.1792.1097" timestamp="1603638127805" />
+    <state x="373" y="209" width="1071" height="796" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603717477843">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="373" y="209" width="1071" height="796" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1603717477843" />
+    <state x="579" y="380" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603638178078">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="579" y="380" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1097@0.23.1792.1097" timestamp="1603638178078" />
+    <state width="1653" height="194" key="GridCell.Tab.0.bottom" timestamp="1603801507775">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1653" height="194" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1603801507775" />
+    <state width="1653" height="194" key="GridCell.Tab.0.center" timestamp="1603801507774">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1653" height="194" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1603801507774" />
+    <state width="1653" height="194" key="GridCell.Tab.0.left" timestamp="1603801507774">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1653" height="194" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1603801507774" />
+    <state width="1653" height="194" key="GridCell.Tab.0.right" timestamp="1603801507775">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1653" height="194" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1603801507775" />
+    <state width="1358" height="335" key="GridCell.Tab.1.bottom" timestamp="1603639865886">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1358" height="335" key="GridCell.Tab.1.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1603639865886" />
+    <state width="1358" height="335" key="GridCell.Tab.1.center" timestamp="1603639865886">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1358" height="335" key="GridCell.Tab.1.center/0.23.1792.1097@0.23.1792.1097" timestamp="1603639865886" />
+    <state width="1358" height="335" key="GridCell.Tab.1.left" timestamp="1603639865885">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1358" height="335" key="GridCell.Tab.1.left/0.23.1792.1097@0.23.1792.1097" timestamp="1603639865885" />
+    <state width="1358" height="335" key="GridCell.Tab.1.right" timestamp="1603639865886">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1358" height="335" key="GridCell.Tab.1.right/0.23.1792.1097@0.23.1792.1097" timestamp="1603639865886" />
+    <state x="396" y="128" key="SettingsEditor" timestamp="1603802813015">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="396" y="128" key="SettingsEditor/0.23.1792.1097@0.23.1792.1097" timestamp="1603802813015" />
+    <state x="606" y="179" width="604" height="735" key="find.popup" timestamp="1603664017338">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="606" y="179" width="604" height="735" key="find.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1603664017338" />
+  </component>
+</project>
